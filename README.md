@@ -2,6 +2,8 @@
 
 A Java Swing-based desktop application designed for small businesses to streamline billing, inventory management, and transaction processing. Easily add products, generate receipts, and manage sales all within a user-friendly interface.
 
+**Download the latest release:** [Shop Management System.zip](./Shop%20Management%20System.zip)
+
 ## 🚀 Brief Overview
 
 * **Add Products to Cart**: Quickly enter product details (ID, Name, Price, Quantity) and see them appear in a dynamic cart table.
