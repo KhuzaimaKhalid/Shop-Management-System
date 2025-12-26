@@ -1,0 +1,15 @@
+=========== BILL ===========
+Transaction ID: 1
+(Items sorted by Total - Highest First)
+
+ID    Name            Price   Qty   Total   
+------------------------------------------
+448   banana          30.00   6     180.00  
+445   cheese          50.00   2     100.00  
+
+-----------------------------
+Subtotal: 280.00
+Total (incl. 10% tax): 308.00
+
+[Sorted using QuickSort Algorithm]
+Thank you for your purchase!
