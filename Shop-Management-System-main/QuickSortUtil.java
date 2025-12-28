@@ -14,7 +14,8 @@ public class QuickSortUtil {
 
     // Partition method
     private static int partition(ArrayList<Product> items, int low, int high, String sortBy) {
-        Product pivot = items.get(high);
+        Product pivot = items.get(low + (high - low) / 2);
+
         int i = low - 1;
 
         for (int j = low; j < high; j++) {
