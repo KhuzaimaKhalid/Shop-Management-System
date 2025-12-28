@@ -49,7 +49,10 @@ public class LoginScreen extends JFrame {
 
     private boolean isValidCredentials(String username, String password) {
         // Connect to your User authentication system
-        return !username.isEmpty() && !password.isEmpty();
+        if(username.equals("Khuzaima") &&  password.equals("yasir") ){
+            return true;
+        }
+        return false;
     }
 
     public static void main(String[] args) {
